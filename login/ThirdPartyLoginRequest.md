@@ -22,7 +22,11 @@
 }
 ```
 ## 8. Resulting Explanation
-waited updating... ...
+| Value | Type | Example | Remark |
+| ----------- | ----------- | ----------- | ----------- |
+| code | Int | 0 | Status Code |
+| msg | Str | 0 | Status Message |
+| data | Str | https://graph.qq.com/xxxx | Login Address |
 ## 9. Available Login Methods
 | Value | Name |
 | ----------- | ----------- |
