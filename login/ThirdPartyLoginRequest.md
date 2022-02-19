@@ -8,7 +8,9 @@
 ## 4. Resulting Format
 `JSON` or `JSONP`
 ## 5. Need to pass parameters
-**unnecessary**
+| Value | Type | Must | Example | Remark |
+| ----------- | ----------- | ----------- | ----------- | ----------- |
+| type | Str | √ True | qq | Third Party Login Methods |
 ## 6. Request Example
 [`https://api.qinglite.com/login?type=qq`](https://api.qinglite.com/login?type=qq "Click me to jump")
 ## 7. Resulting Example
