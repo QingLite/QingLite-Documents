@@ -1,9 +1,32 @@
 # QingLite API Docs
-## 1. What will be written here?
-All requests for APIs about [QingLite](https://www.qinglite.com/ "QingLite").
-## 2. Need Attention!
-Forced encoding format: **UTF-8**  
-The returned value must be: **JSON**  
-Standard request address: `https://api.qinglite.com/`
-## 3. ❗MUST READ❗
-In the early stage, in order to facilitate cross-device requests, the backend (API) development was relatively straightforward. Including cookies and tokens, will be redeveloped in the later stage!
+
+## Developer
+
+[Prk](https://github.com/BiliPrk)
+
+
+## Translate
+
+### English (United States)
+
+- [Prk](https://github.com/BiliPrk)
+- Jun-yee Li
+- Yu-ang Yang
+
+
+### Chinese (People's Republic of China)
+
+- [Prk](https://github.com/BiliPrk)
+- [Google Translate](https://translate.google.com)
+- Lee-jun Zhang
+
+
+## Thanks ♥
+
+- [Evan You](https://github.com/yyx990803)
+- [Vue.js](https://vuejs.org/)
+- [Vite](https://vitejs.dev/)
+- [VuePress](https://vuepress.vuejs.org/)
+
+
+**THANKS FOR YOUR SUPPORT!**
