@@ -5,7 +5,7 @@
 [Prk](https://github.com/BiliPrk)
 
 
-## Translate
+## Language
 
 ### English (United States)
 
