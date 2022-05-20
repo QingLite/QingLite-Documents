@@ -14,7 +14,7 @@
 - Yu-ang Yang
 
 
-### Chinese (People's Republic of China)
+### ![🇨🇳](https://cdn.emojidex.com/emoji/seal/中国国旗.png "PRC")Chinese (People's Republic of China)
 
 - [Prk](https://github.com/BiliPrk)
 - [Google Translate](https://translate.google.com)
